@@ -166,6 +166,9 @@ This project demonstrates practical experience with:
 - Forecast analysis
 - Interactive filtering
 - Business-focused data storytelling
+- 
+###  Screenshots / Demos
+Example: ![Dashboard Preview](https://github.com/PrashantDes/business-insight-360/blob/main/supply-chain-view.png)
 
 ## 👨‍💻 About
 
