@@ -22,57 +22,58 @@ The goal of this project is to help business stakeholders:
 ## 🖥️ Dashboard Views
 
 ### 1. Finance View
+![Dashboard Preview](https://github.com/PrashantDes/business-insight-360/blob/main/finance-view.png)
+
 
 Provides a detailed **Profit & Loss Statement** and financial performance analysis.
+## 🔍 Key Findings
 
-Key metrics include:
-- Net Sales
-- Gross Sales
-- Net Invoice Sales
-- Cost of Goods Sold (COGS)
-- Gross Margin
-- Gross Margin %
-- Operational Expense
-- Net Profit
-- Net Profit %
+- **Net Sales:** $7.05B, providing a consolidated view of overall revenue performance.
+- **Gross Margin:** 37.48%, indicating the proportion of sales remaining after accounting for the cost of goods sold.
+- **Net Profit Margin:** -14.65%, highlighting a significant gap between overall revenue generation and bottom-line profitability.
+- The Finance view enables further analysis of sales, COGS, gross margin, operating expenses, and net profit across different business dimensions.
 
 
 ### 2. Sales View
+![Dashboard Preview](https://github.com/PrashantDes/business-insight-360/blob/main/supply-chain-view.png)
 
 Focuses on product and market performance, including Net Sales, Gross Margin, product performance, customer performance, and regional analysis.
 
+### Sales & Market Performance
+- Sales performance varies across **products, customers, regions, and markets**.
+- The dashboard enables identification of high- and low-performing products and customers based on sales and gross-margin contribution.
+- Revenue contribution can be analyzed across different channels and regional markets.
+
 
 ### 3. Marketing View
+![Dashboard Preview](https://github.com/PrashantDes/business-insight-360/blob/main/marketing-view.png)
 
 Analyzes market and segment performance using Net Sales, Gross Margin %, Net Profit %, revenue contribution, and regional comparisons.
 
+### Marketing Performance
+- Market and segment performance varies across regions.
+- The relationship between **Net Sales, Gross Margin, and Net Profit** provides additional context for evaluating market performance.
+- Revenue contribution analysis helps identify the relative importance of different markets and segments.
+
 
 ### 4. Supply Chain View
-
+![Dashboard Preview](https://github.com/PrashantDes/business-insight-360/blob/main/supply-chain-view.png)
 Focuses on forecasting and supply-chain performance.
+### Supply Chain Performance
+- **Forecast Accuracy:** 68.12%.
+- Forecast performance varies across customers, products, and segments.
+- **Net Error and Absolute Error** provide additional visibility into forecasting deviations.
+- These metrics can help identify areas where demand forecasting and supply-chain planning may require further investigation.
 
-Key metrics include:
-- Forecast Accuracy %
-- Net Error
-- Absolute Error
-- Forecast Accuracy vs previous year
-- Customer-level forecast metrics
-- Product/segment-level forecast metrics
-- Risk classification
-
-
+  
 ### 5. Executive View
-
+![Dashboard Preview](https://github.com/PrashantDes/business-insight-360/blob/main/executive-view.png)
 Consolidates important business KPIs into a high-level management dashboard.
 
-The displayed KPIs include:
-- Net Sales
-- Gross Margin %
-- Net Profit %
-- Forecast Accuracy %
-- Revenue contribution
-- Top customers and products
-- Regional/sub-region performance
+### Executive-Level Takeaways
+- The dashboard demonstrates that **high sales volume does not necessarily translate directly into positive profitability**.
+- Combining financial, sales, marketing, and supply-chain metrics provides a broader view of business performance.
+- Interactive filtering allows stakeholders to move from overall KPIs to detailed **product, customer, regional, and market-level analysis**.
 
 
 ## 📈 KPI Snapshot
@@ -166,9 +167,7 @@ This project demonstrates practical experience with:
 - Forecast analysis
 - Interactive filtering
 - Business-focused data storytelling
-- 
-###  Screenshots / Demos
-Example: ![Dashboard Preview](https://github.com/PrashantDes/business-insight-360/blob/main/supply-chain-view.png)
+
 
 ## 👨‍💻 About
 
